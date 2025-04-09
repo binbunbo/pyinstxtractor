@@ -56,3 +56,4 @@ A standalone binary version of pyinstxtractor. This tool doesn't require Python 
 ## License
 
 GNU General Public License v3.0
+https://pylingual.io/
